@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamiressantosdata
-- 👀 I’m interested in software engineering, data science, computer vision, machine learning, deep learning
-- 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on computer vision projects in general.
+- 👀 I’m interested in software engineering, data science, machine learning, deep learning
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science projects in general.
 - 📫 How to reach me tamires.santosengineer@gmail.com,
 
 <!---
