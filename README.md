@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tamiressantosdata
 - 👀 I’m interested in software engineering, data science, machine learning, deep learning and computer vision.
 - 💞️ I’m looking to collaborate on data science projects in general.
-- 📫 How to reach me tamires@shareablesinc.com
 
 <!---
 tamiressantosdata/tamiressantosdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
